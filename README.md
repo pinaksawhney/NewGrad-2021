@@ -12,7 +12,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
-|~~[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) ~~| Chicago, IL | Junior Developer (Software)|
+|A - [Akuna Capital](https://akunacapital.com/job-details?gh_jid=2236978&gh_src=fcb01e3f1us) | Chicago, IL | Junior Developer (Software)|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
@@ -134,4 +134,4 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[FDM Group](https://apply.fdmgroup.com/displayjob.aspx?jobid=852)|Fully Remote|2020/2021 University Graduates - Software Development Consultant - USA|
 |[Vectra AI](https://www.vectra.ai/about/careers?gh_jid=2366784)|San Jose, CA|Data Scientist - New Graduates|
 |[Betterment](https://boards.greenhouse.io/betterment/jobs/2388587/)|New York, NY|Software Engineer - New Grad 2021|
-|[Amazon Robotics](https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M)|Westborough, MA| New Grad 2021|
+|A - [Amazon Robotics](https://www.amazon.jobs/en/jobs/1241746/software-development-engineer-amazon-robotics-2021-grad?cmpid=SPLICX0248M)|Westborough, MA| New Grad 2021|
